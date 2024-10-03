@@ -33,7 +33,7 @@ The dataset contains 5000 call conversations and consists of the following featu
 - Average Talk Duration: The average duration of the conversation.
 - Satisfaction Rating: Customer satisfaction rating out of 5.
 
-# 5. Data Preprocesing
+# 5. Data Preprocessing
 
 - **Remove Empty Columns and Rows**: Identify and remove any empty columns and rows.
 - **Remove Duplicates**: Deduplication of data to avoid redundancy.
