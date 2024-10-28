@@ -2,12 +2,10 @@
 A comprehensive analysis of call center performance driven by data, focusing on agent productivity, call outcomes, and customer satisfaction metrics. This project leverages Power BI to deliver insights for enhancing call management, minimizing missed and abandoned calls, and optimizing staffing strategies to improve customer service.
 
 ## Call Analysis
-![image](https://github.com/user-attachments/assets/7b54ac33-14f5-4406-ab2b-4a033db9aec7)
-
+![image](https://github.com/user-attachments/assets/205a381e-b971-455b-9cc7-3df5a560d22a)
 
 ## Agent Analysis
-![image](https://github.com/user-attachments/assets/978bc38e-b15d-4a19-a7c4-f19f7a7f0708)
-
+![image](https://github.com/user-attachments/assets/db5e8979-c08a-46f2-ab17-7b44cc4599c8)
 
 ## Background
 Call centers are crucial for maintaining customer relationships, but managing agent performance, call efficiency, and customer satisfaction can be challenging without data insights. As call volumes and customer demands grow, a data-driven approach is essential for identifying inefficiencies and making informed decisions. This project uses data analysis to uncover actionable insights that enhance call handling, improve agent productivity, and boost customer satisfaction.
