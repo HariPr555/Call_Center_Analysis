@@ -1,10 +1,13 @@
 # Call_Center_Analysis
 A comprehensive analysis of call center performance driven by data, focusing on agent productivity, call outcomes, and customer satisfaction metrics. This project leverages Power BI to deliver insights for enhancing call management, minimizing missed and abandoned calls, and optimizing staffing strategies to improve customer service.
 
-## Call Analysis
+## Dashboard
+Please check it out !! [Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMWY1OTE2OWUtYzYyZi00ZDZlLWIxZGYtZWIzMTYyYTkyZmQxIiwidCI6ImVhOWI2YmUyLTU2ZjMtNGNhNS1iN2M2LWYyMDg3NmQ2YzA3MSJ9)
+
+### Call Analysis
 ![image](https://github.com/user-attachments/assets/205a381e-b971-455b-9cc7-3df5a560d22a)
 
-## Agent Analysis
+### Agent Analysis
 ![image](https://github.com/user-attachments/assets/db5e8979-c08a-46f2-ab17-7b44cc4599c8)
 
 ## Background
